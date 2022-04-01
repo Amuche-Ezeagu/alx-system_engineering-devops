@@ -1,1 +1,1 @@
-My first readme
+MY firs shell basic readme
